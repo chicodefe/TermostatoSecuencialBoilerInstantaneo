@@ -10,6 +10,9 @@ int Flujo = 0;
 #define ONE_WIRE_BUS_1 2
 #define ONE_WIRE_BUS_2 4
 
+
+
+
 OneWire oneWire_in(ONE_WIRE_BUS_1);
 OneWire oneWire_out(ONE_WIRE_BUS_2);
 
